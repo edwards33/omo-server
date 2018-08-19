@@ -2,7 +2,7 @@
 
 ## Goals
 
-Example of REST API server app (use in conjunction with REST API client:[Omo-client](https://.../) ).
+Example of REST API server app (use in conjunction with REST API client:[Omo-client](https://github.com/edwards33/omo-client) ).
 Loads simple registration form.
 
 ## Libraries, Frameworks and DB used
